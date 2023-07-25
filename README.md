@@ -1,5 +1,5 @@
 # bank-ui
-frontendmento design
+frontendmentor design
 
 ## Project setup
 ```
