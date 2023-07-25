@@ -1,4 +1,5 @@
-# asybank
+# bank-ui
+frontendmento design
 
 ## Project setup
 ```
